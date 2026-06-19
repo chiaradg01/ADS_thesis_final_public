@@ -6,7 +6,7 @@ It implements and evaluates a Generate-Review-Rewrite (GRR) multi-agent pipeline
 ## Repository Structure
 ```
 .
-├── config.py                  # NOT INCLUDED - see "Configuration" below
+├── config.py                  # NOT INCLUDED - see below
 ├── .env                       # NOT INCLUDED - see "API Keys" below
 ├── prompts.py                 # All prompt strings and prompt-building 
 ├── baseline1_plain.py         # Baseline 1: zero-shot single-agent pipeline
